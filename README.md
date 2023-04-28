@@ -1,6 +1,6 @@
 # The-Hateful-Eight
 
-Uses a generative adversarial network (GAN) to create additional training examples to be used in a right-wing extremism detection model based on an initial dataset of rhetoric from 8 right-wing extremist groups in North America and the UK. 
+Uses a generative adversarial network (GAN) with an initial dataset consisting of rhetoric from 8 right-wing extremist groups in North America and the UK to create additional training examples for a right-wing extremism detection model. 
 
 Extremist groups:
 
