@@ -1,6 +1,6 @@
 # The-Hateful-Eight
 
-The 2010s saw a noticable increase in right-wing populist leaders across the globe. This project uses an initial dataset containing 8 of these leader's public statements with a generative adversarial network (GAN) to create additional training examples for a right-wing rhetoric detection model. 
+The 2010s saw a noticable increase in right-wing populist leaders across the globe. This project uses an initial dataset containing 8 of these leader's public statements with a generative adversarial network (GAN) to create additional training examples for a far right-wing rhetoric detection model. 
 
 <br/>
 
